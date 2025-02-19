@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 999.84 196.73">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        font-size: 42.14px;
+      }
+
+      .cls-8, .cls-9 {
+        font-family: JunigardenSerifPERSONALUSE-Regular, 'Junigarden Serif PERSONAL USE';
+      }
+
+      .cls-9 {
+        font-size: 137.19px;
+      }
+    </style>
+  </defs>
+  <g id="Name">
+    <text class="cls-9" transform="translate(0 119.08)"><tspan x="0" y="0">J</tspan><tspan class="cls-4" x="78.06" y="0">a</tspan><tspan x="143.77" y="0">c</tspan><tspan class="cls-5" x="208.8" y="0">o</tspan><tspan class="cls-1" x="280.69" y="0">b Brid</tspan><tspan class="cls-7" x="667.15" y="0">g</tspan><tspan class="cls-2" x="734.51" y="0">ham</tspan></text>
+  </g>
+  <g id="Flair">
+    <text class="cls-8" transform="translate(262.51 153.75)"><tspan x="0" y="0">Gr</tspan><tspan class="cls-6" x="46.31" y="0">a</tspan><tspan class="cls-3" x="66.03" y="0">p</tspan><tspan x="90.31" y="0">hic Design</tspan></text>
+    <rect x="5.84" y="132.87" width="247" height="20"/>
+    <rect x="745.84" y="132.87" width="252" height="20"/>
+  </g>
+</svg>
