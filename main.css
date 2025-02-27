@@ -45,11 +45,29 @@ body{
 #instagram{
     fill: #DD403A;
 }
+
+#instagram:hover{
+    fill: #a2302c;
+    transform: scale(1.1);
+    transition: transform 0.3s ease, fill 0.3s ease;
+}
 #facebook{
     fill: #468189;
 }
+
+#facebook:hover{
+    fill: #2f5e5e;
+    transform: scale(1.1);
+    transition: transform 0.3s ease, fill 0.3s ease;
+}
 #linkedin{
     fill: #EA9010;
+}
+
+#linkedin:hover{
+    fill: #c97a0d;
+    transform: scale(1.1);
+    transition: transform 0.3s ease, fill 0.3s ease;
 }
 
 #Flair{
