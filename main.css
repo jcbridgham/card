@@ -77,3 +77,18 @@ body{
 #Name{
     fill:#3E363F;
 }
+
+/* mobile styling */
+
+@media screen and (max-width: 700px) {
+    .card{
+        width: 300px;
+        height: 250px;
+    }
+    .icon-container{
+        width: 80%;
+    }
+    .logotype{
+        width: 80%;
+    }
+}
